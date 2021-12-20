@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../Darwin-x86_64-RELEASE/libopenMVG_robust_estimation.a CMakeFiles/openMVG_robust_estimation.dir/gms_filter.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../Darwin-x86_64-RELEASE/libopenMVG_robust_estimation.a

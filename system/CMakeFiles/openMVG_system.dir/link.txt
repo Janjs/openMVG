@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../Darwin-x86_64-RELEASE/libopenMVG_system.a CMakeFiles/openMVG_system.dir/timer.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../Darwin-x86_64-RELEASE/libopenMVG_system.a
