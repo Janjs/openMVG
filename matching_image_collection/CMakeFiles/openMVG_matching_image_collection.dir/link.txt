@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../Darwin-x86_64-RELEASE/libopenMVG_matching_image_collection.a CMakeFiles/openMVG_matching_image_collection.dir/Cascade_Hashing_Matcher_Regions.cpp.o CMakeFiles/openMVG_matching_image_collection.dir/Geometric_Filter_utils.cpp.o CMakeFiles/openMVG_matching_image_collection.dir/Matcher_Regions.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../Darwin-x86_64-RELEASE/libopenMVG_matching_image_collection.a
